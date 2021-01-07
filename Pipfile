@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-dash = "==1.13.3"
+dash = "==1.18.1"
 pandas = "==1.1.5"
 gunicorn = "==20.0.4"
 
